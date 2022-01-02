@@ -1,7 +1,6 @@
 {
   "statCards": [
     {
-      "id": 1,
       "title": "1,606,488",
       "subTitle": "SSDP",
       "type": "primary",
@@ -9,7 +8,6 @@
       "footer": "<i class=\"tim-icons icon-refresh-01\"></i> Updated 01/01/2022 12:00"
     },
     {
-      "id": 2,
       "title": "1,606,488",
       "subTitle": "SSDP",
       "type": "primary",
@@ -17,7 +15,6 @@
       "footer": "<i class=\"tim-icons icon-refresh-01\"></i> Updated 01/01/2022 12:00"
     },
     {
-      "id": 3,
       "title": "1,606,488",
       "subTitle": "SSDP",
       "type": "primary",
@@ -25,7 +22,6 @@
       "footer": "<i class=\"tim-icons icon-refresh-01\"></i> Updated 01/01/2022 12:00"
     },
     {
-      "id": 4,
       "title": "1,606,488",
       "subTitle": "SSDP",
       "type": "primary",
