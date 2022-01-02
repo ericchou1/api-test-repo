@@ -1,4 +1,34 @@
 {
+  "statCards": [
+    {
+      title: '150GB',
+      subTitle: 'Number',
+      type: 'warning',
+      icon: 'tim-icons icon-chat-33',
+      footer: '<i class="tim-icons icon-refresh-01"></i> Update Now'
+    },
+    {
+      title: '+45K',
+      subTitle: 'Followers',
+      type: 'primary',
+      icon: 'tim-icons icon-shape-star',
+      footer: '<i class="tim-icons icon-sound-wave"></i></i> Last Research'
+    },
+    {
+      title: '150,000',
+      subTitle: 'Users',
+      type: 'info',
+      icon: 'tim-icons icon-single-02',
+      footer: '<i class="tim-icons icon-trophy"></i> Customer feedback'
+    },
+    {
+      title: '23',
+      subTitle: 'Errors',
+      type: 'danger',
+      icon: 'tim-icons icon-molecule-40',
+      footer: '<i class="tim-icons icon-watch-time"></i> In the last hours'
+    }
+  ],
   "posts": [
     {
       "id": 1,
